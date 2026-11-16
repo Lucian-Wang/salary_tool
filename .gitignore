@@ -1,0 +1,24 @@
+
+
+# Local secrets and runtime data
+.env
+.env.*
+!.env.example
+!.env.sample
+*.jks
+*.keystore
+*.p12
+*.pfx
+*_private.pem
+*.log
+__pycache__/
+*.pyc
+/dist/工资报表生成工具.exe
+/installer/工资报表生成工具_v2.6_安装包.exe
+/salary_tool.db
+/screenshot.png
+/build/
+/dist/
+*.db
+*.sqlite
+*.sqlite3
